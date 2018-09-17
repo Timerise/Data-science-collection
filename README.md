@@ -21,3 +21,70 @@ A collection of various past or current projects
 ##Will be strictly sticking to using public domain sources. Also this project is purely curiosity driven.
 
 ####_____________________________________________
+#Review of various company financial statements paired with time series models of their stock.
+
+##List of companies:
+
+##Apple 
+
+##Alphabet Inc.
+
+##Microsoft Corporation
+
+##Amazon.com
+
+##Facebook, Inc 
+
+##Berkshire Hathaway
+
+##Alibaba Group Holding Ltd   (BABA)
+
+##Johnson & Johnson   (JNJ)
+
+##JPMorgan Chase & Co.  (JPM)
+
+##ExxonMobil  (XOM)
+
+##Bank of America  (BAC)
+
+##Wal-Mart Stores Inc.  (WMT)
+
+##Wells Fargo & Co. (WFC)
+
+##Royal Dutch Shell plc  (RDS-A)(RBS-B)
+
+##Visa Inc. (V)
+
+##Procter & Gamble Co. (PG)
+
+##Anheuser-Busch Inbev (BUD)
+
+##AT&T Inc. (T)
+
+##Time Warner (TWX.DL)
+
+##Chevron Corporation (CVX)
+
+##UnitedHealth Group Inc. (UNH)
+
+##Pfizer Inc. (PFE)
+
+##Roche Holding Ltd.  (RHHBY)
+
+##China Mobile (CHL)
+
+##Home Depot (HD)
+
+##Novartis(NVS)
+
+##Citigroup Inc. (C)
+
+##Oracle Corporation (ORCL)
+
+##Verizon Communicatios (VZ)
+
+##Taiwan Semiconductor Mfg. Co.Ltd (TSM)
+
+##Intel Corporation (INTC)
+
+###__________________________________________________________
