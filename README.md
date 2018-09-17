@@ -18,6 +18,6 @@ A collection of various past or current projects
 
 ##The goal is to conduct Exploratory data analysis on the various price levels via socioeconomical status of each neighborhood (mean house hold income, education levels,occupations,cost of rental properties ,paid price of homes , current value of homes,mental health attriubtes,over all health status of neighborhoods, etc..
 
-## Will be strictly sticking to using public domain sources. Also this project is purely curiosity driven.
+##Will be strictly sticking to using public domain sources. Also this project is purely curiosity driven.
 
 ####_____________________________________________
