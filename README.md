@@ -88,3 +88,9 @@ A collection of various past or current projects
 ##Intel Corporation (INTC)
 
 ###__________________________________________________________
+# Kickstarter project
+
+  Kickstarter modeling project using binary logitistic regression, random forest,nerual networks , and ada boosting.  Always updating with better coding methods or different ways to look at the problem.
+  
+###______________________________________________
+
