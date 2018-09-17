@@ -91,6 +91,7 @@ A collection of various past or current projects
 # Kickstarter project
 
   Kickstarter modeling project using binary logitistic regression, random forest,nerual networks , and ada boosting.  Always updating with better coding methods or different ways to look at the problem.
+  Data set was from kaggle.com , a copy of it is in the zip file Kickstarterpj1EG=Copy
   
 ###______________________________________________
 
