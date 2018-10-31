@@ -1,3 +1,6 @@
+# This collections is mostly directed at coding, there are a lot of simple mistakes. 
+# Check out my offical portfolio repository for some really good examples of data analysis
+
 # Data-science-collection
 A collection of various past or current projects
 ######______________________________________
