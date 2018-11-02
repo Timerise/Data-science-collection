@@ -1,5 +1,5 @@
 # This collections is mostly directed at coding, there are a lot of simple mistakes. 
-# I was to focus on reviewing coding methods that I overlooked some stuff.
+# I was too focus on reviewing coding methods that I overlooked some stuff.
 # Check out my offical portfolio repository for some really good examples of data analysis
 
 # Data-science-collection
